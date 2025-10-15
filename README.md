@@ -1,5 +1,3 @@
-Berikut contoh panduan yang bisa kamu masukkan ke **README.md** untuk menjelaskan penggunaan gambar di folder `assets`:
-
 ```markdown
 ## Assets / Images
 
