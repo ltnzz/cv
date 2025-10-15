@@ -1,31 +1,10 @@
-```markdown
 ## Assets / Images
 
-Semua gambar yang digunakan di proyek ini berada di dalam folder `assets`.  
-Jika kamu ingin **mengganti gambar default**, lakukan langkah berikut:
+All images used in this project are stored in the `assets` folder.  
+To replace any default image, follow these steps:
 
-1. Masukkan gambar baru ke dalam folder `assets`.
-2. Pastikan nama file gambar sama dengan gambar yang ingin diganti, atau ubah referensinya di kode HTML/CSS/JS sesuai nama baru.
-3. Periksa ukuran gambar agar proporsional dengan tampilan website.
+1. Add your new image to the `assets` folder.
+2. Make sure the file name matches the image you want to replace, or update the reference in your HTML/CSS/JS accordingly.
+3. Check the image size to ensure it fits well in the website layout.
 
-**Contoh struktur folder:**
-
-```
-
-project-root/
-│
-├─ assets/
-│  ├─ logo.png
-│  ├─ background.jpg
-│  └─ profile.jpg
-│
-├─ index.html
-├─ style.css
-└─ script.js
-
-```
-
-> ⚠️ Catatan: Folder `assets` di-*ignore* dari Git (tidak ikut di-upload), jadi pastikan setiap orang yang ingin menjalankan proyek menambahkan sendiri file gambar di folder ini.
-```
-
-Kalau mau, gue bisa bikin versi **lebih singkat & to the point** yang cocok langsung dipasang di README. Mau gue bikinin?
+> **Note:** The `assets` folder is ignored by Git, so make sure anyone running the project adds the required images to this folder.
